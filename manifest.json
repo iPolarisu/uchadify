@@ -13,7 +13,7 @@
     "content_scripts": [
       {
         "matches": ["*://*.u-cursos.cl/*"],
-        "js": ["scripts/uchadify.js"]
+        "js": ["scripts/chadify.js"]
       },
       {
         "matches": ["*://*.u-cursos.cl/ingenieria/*/*/*/*/tareas/*"],
