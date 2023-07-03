@@ -6,6 +6,11 @@ Firefox extension that chadifies the U-Cursos website.
 
 Firefox extension that replaces all instances of cargo icons with chad icons.
 
+## Functionalities
+
+- Chadify the icons
+- Offer hours to minutes calculator in "Tareas"
+
 ## Getting Started
 This is only a guide to temporary install the extension, if you close the browser the extension will be uninstalled.
 
