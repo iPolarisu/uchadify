@@ -19,3 +19,5 @@ function updateMinutes() {
     minutesInput.value = minutes;
   }
 }
+
+console.log("Hours!")
