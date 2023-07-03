@@ -30,3 +30,5 @@ for (let i = 0; i < cargos.length; i++) {
     }
     
 };
+
+console.log("Chadified!")
